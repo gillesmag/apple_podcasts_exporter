@@ -4,7 +4,6 @@ sudo: false
 
 script:
   - shellcheck --version
-  - ls
   - shellcheck apple_podcasts_exporter.sh
 
 
