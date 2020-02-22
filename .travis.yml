@@ -2,15 +2,9 @@ language: bash
 
 sudo: false
 
-addons:
-  apt:
-    sources:
-    - debian-sid
-    packages:
-    - shellcheck
-
 script:
- - shellcheck *.sh
+  - shellcheck --version
+  - shellcheck *.sh
 
 
 matrix:
