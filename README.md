@@ -1,5 +1,7 @@
 # `apple_podcasts_exporter`
 
+[![Build Status](https://travis-ci.com/gillesmag/apple_podcasts_exporter.svg?branch=master)](https://travis-ci.com/gillesmag/apple_podcasts_exporter)
+
 A simple tool that exports the podcasts stored by Apple's Podcasts app
 into a directory structure where each podcast has its own directory.
 
