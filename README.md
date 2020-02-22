@@ -17,6 +17,7 @@ script exists.
 
 ## Usage
 ```
+$ chmod +x apple_podcasts_exporter.sh
 $ ./apple_podcasts_exporter.sh
 USAGE: ./apple_podcasts_exporter.sh DESTINATION
 $ ./apple_podcasts_exporter.sh podcasts
